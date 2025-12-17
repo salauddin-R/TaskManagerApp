@@ -179,7 +179,11 @@ Clean Architecture with a single Task Controller
 Dark Mode support
 
 👤 Author
+
 Md Salauddin Rony
+
 Flutter Developer
+
 Learning Flutter, GetX, and Clean Architecture
+
 Aspiring Remote & Freelance Developer
